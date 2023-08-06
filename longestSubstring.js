@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=list&envId=xi4ci4ig
+// LeetCode #3: https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=list&envId=xi4ci4ig
 
 function longestSubstring(s) {
   // initialize start, hash map, and length
